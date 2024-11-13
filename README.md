@@ -5,3 +5,7 @@
 ## branching
 
     feature branch
+
+## undo in git
+
+    how to undo the commits
